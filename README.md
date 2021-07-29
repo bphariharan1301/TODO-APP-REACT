@@ -39,7 +39,7 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## `npm run server`
+### `npm run server`
 
 Starts the JSON server which is used as a mock back-end.
 Open this [https://github.com/typicode/json-server](repository) to know more about it or in this [https://www.npmjs.com/package/json-server](json-serever documentation)
