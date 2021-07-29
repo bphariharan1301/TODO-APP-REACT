@@ -42,7 +42,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 ### `npm run server`
 
 Starts the JSON server which is used as a mock back-end.
-Open this [https://github.com/typicode/json-server](repository) to know more about it or in this [https://www.npmjs.com/package/json-server](json-serever documentation)
+Open this [repository](https://github.com/typicode/json-server) to know more about it or in this [json-serever documentation](https://www.npmjs.com/package/json-server)
 
 ## Learn More
 
