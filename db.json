@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "NCC Class",
+      "day": "Jul 29th at 4:00pm",
+      "reminder": true
+    },
+    {
+      "text": "Prop Meet",
+      "day": "Monday",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "Test Task",
+      "day": "Monday",
+      "reminder": true,
+      "id": 4
+    }
+  ]
+}
